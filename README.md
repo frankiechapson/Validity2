@@ -19,7 +19,7 @@ then we have to create new VFD-VTD periods from them:
 
                  +--+---+------------+----+----+---------+-----------+-----------+-------+--+-----------+------+----------------------+------+--+
 
-The if we join the PERSON, MEMBERSHIPS, PERSON_POSITIONS, PROJECT_MEMBERS tables with ID-s and with this new PERIODS with overlappings the table VFD-VTD and PERIOD VFD-VTD, then we will get result for each new period.
+Then if we join the PERSON, MEMBERSHIPS, PERSON_POSITIONS, PROJECT_MEMBERS tables with ID-s and with this new PERIODS with overlappings the table VFD-VTD and PERIOD VFD-VTD, then we will get result for each new period.
 
      all table   +--+---+------------+----+----+---------+-----------+-----------+-------+--+-----------+------+----------------------+------+--+
 
