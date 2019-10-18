@@ -15,7 +15,7 @@ first of all, we have to collect all VFD and VTD date when something happened:
 
     all date     +  +   +            +    +    +         +           +           +       +  +           +      +                      +      +  +
 
-then we have to create new VFD-VTD periods for them:
+then we have to create new VFD-VTD periods from them:
 
                  +--+---+------------+----+----+---------+-----------+-----------+-------+--+-----------+------+----------------------+------+--+
 
