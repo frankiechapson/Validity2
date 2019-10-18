@@ -1,6 +1,6 @@
 # How to manage data validity in case of joined tables
 
-That is a normal thing to use validity in tables. For example a people can be member of different teams in different periods and can have different positions in different periods and can work on different projects on different periods etc.
+That is a normal thing to use validity in tables. For example a people can be member of different teams in different periods and can have different positions in different periods and can work on different projects in different periods etc.
 Each table, MEMBERSHIPS, PERSON_POSITIONS, PROJECT_MEMBERS has a VALID_FROM_DATE (VFD) and a VALID_TO_DATE (VTD)
 These VFD-VTD periods are indepent from each others:
 
