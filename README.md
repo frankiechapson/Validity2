@@ -25,7 +25,7 @@ The if we join the PERSON, MEMBERSHIPS, PERSON_POSITIONS, PROJECT_MEMBERS tables
 
 At last we have to merge the continuous periods. Two period are continuous if one follows the other and every attributes are identical. So, we can reduce the number of intervals.
 
-Not so easy, and not too fast, but is is working.
+Not so easy, and not too fast, but it is working.
 
 ### See the sql files for a demo!
 
